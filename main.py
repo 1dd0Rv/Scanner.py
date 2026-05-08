@@ -29,7 +29,7 @@ from scanner_pkg.display import (
 # argparse se encarga de validarlos, mostrar el --help y devolver
 # un objeto con los valores listos para usar.
 def parse_args():
-    parser = argparse.ArgumentParser(description='Scanner de puertos educativo - SAD')
+    parser = argparse.ArgumentParser(description='Scanner de puertos - 1dd0rv')
     parser.add_argument('objetivo', help='IP, hostname o rango CIDR')
     parser.add_argument('-p', '--puertos', default=config.DEFAULT_PORTS,
                         help='Puertos a escanear (ej: 1-1024 ó 22,80,443)')
