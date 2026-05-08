@@ -1,10 +1,9 @@
-# Scanner de Puertos Educativo
+# Scanner de Puertos
 
-Herramienta de reconocimiento de red desarrollada con fines educativos para la asignatura **SAD (Seguridad y Alta Disponibilidad)**.  
+Herramienta de reconocimiento de red desarrollada con fines educativos para la asignatura **Optativa(Python)**.  
 Permite descubrir puertos abiertos, identificar servicios, capturar banners y estimar el sistema operativo de un host — **sin depender de nmap ni de ningún binario externo**.
 
-> **Aviso legal:** Esta herramienta está diseñada exclusivamente para entornos controlados y con autorización expresa.  
-> Su uso en redes o sistemas ajenos sin permiso es ilegal.
+
 
 ---
 
